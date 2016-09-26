@@ -1,3 +1,14 @@
 .profil{
 	position: absolute;
+	width: 100%;
+	padding: 0 50px 0 50px;
+}
+.name {
+	padding: 5px;
+}
+#nasserdine {
+	background-color: yellow;
+}
+#dylan {
+	background-color: green;
 }
